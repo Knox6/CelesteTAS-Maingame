@@ -3692,7 +3692,7 @@ Endrepeat
   27,L,U
   89,F,1.36
  117,F,0.5
-  14,D,X
+  14,U,X
   38
 AnalogMode, Ignore
 #End_IGT
